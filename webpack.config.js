@@ -22,7 +22,7 @@ module.exports = {
                 test: /\.js$/,
                 exclude: /node_modules/,
                 use: {
-                    loader: 'babel-laoder'
+                    loader: 'babel-loader'
                 }
             }
         ]
